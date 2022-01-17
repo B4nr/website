@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Banr's website :)
 
-You can use the [editor on GitHub](https://github.com/B4nr/website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can check out my [Youtube Channel](https://www.youtube.com/channel/UCzWAzY2ei29ulb1m9o2T52Q) if you wanna watch some shit in your free time lol
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Blah blah blah
 
-### Markdown
+### This is just a voice inside your head!
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
